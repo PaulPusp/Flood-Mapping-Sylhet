@@ -22,16 +22,7 @@ This repository contains code and resources for a project focused on flood mappi
 ## Resources
 
 - [Google Earth Engine](https://earthengine.google.com/): Platform for analyzing and visualizing geospatial data.
-- [Google Earth Engine Documentation](https://developers.google.com/earth-engine): Official documentation for Google Earth Engine, including guides, tutorials, and reference materials.
-
+- [Google Earth Engine Documentation](https://code.earthengine.google.com/?accept_repo=users/Paulpuspendubiswas2/FloodProjectSylhetMeghalaya)
 ## Contributing
 
 If you would like to contribute to this project, feel free to submit pull requests or open issues. Contributions, suggestions, and feedback are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize it further based on your specific project needs and preferences!
